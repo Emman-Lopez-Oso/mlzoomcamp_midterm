@@ -1,0 +1,4 @@
+name: data_sci_env
+channels:
+  - defaults
+prefix: /home/codespace/anaconda3/envs/data_sci_env
